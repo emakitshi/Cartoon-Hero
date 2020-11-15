@@ -12,6 +12,7 @@ header{
 	padding-bottom: 50px;
 }
 
+/* header styles */
 h1, h2{
 	font-family: 'Press Start 2P', cursive;
 }
@@ -23,9 +24,9 @@ header h1{
 }
 
 header img{
-	border-radius: 150px;
-	width: 300px
-	border: 20px solid white;
+	border-radius: 170px;
+	width: 300px;
+	border: 20px solid #483a94;
 }
 
 
